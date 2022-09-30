@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Bratini from Dominican Republic
-- 👀 I’m interested in continue to learging about new tecnologies
+- 👀 I’m learning about new tecnologies
 - 🌱 I’m currently learning and studing to become a Full stack Developer 
 - 📫 How to reach me in Linked in as Carlos Bratini
 
