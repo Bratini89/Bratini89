@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and studing to become a Full stack Developer
 - 📫 How to reach me carlosbratini@hotmail.com
 - Linked in  https://www.linkedin.com/in/carlos-bratini-008962246/
+- Portfolio https://carlos-bratini.netlify.app/
 
 HTML | CCS3 | JAVASCRIPT | REACT JS | REDUX | NODE JS, EXPRESS, PostgreSQL 
 
